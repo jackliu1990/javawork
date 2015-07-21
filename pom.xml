@@ -41,7 +41,7 @@
                    <artifactId>maven-release-plugin</artifactId>
                    <version>2.5.2</version>
                    <configuration>
-                   <tagBase>https://github.com/jackliu1990/javawork/tags</tagBase>
+                   <tagBase>https://github.com/jackliu1990/javawork/releases</tagBase>
         </configuration>
       </plugin>
   </plugins>
